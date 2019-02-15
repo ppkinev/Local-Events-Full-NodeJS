@@ -1,0 +1,1090 @@
+<QUESTION>
+какой
+ <QUESTION>
+какому
+ <QUESTION>
+кем
+ <QUESTION>
+кого
+ <QUESTION>
+кому
+ <QUESTION>
+каким
+ <QUESTION>
+каких
+ <QUESTION>
+какое
+ <QUESTION>
+чего
+ <QUESTION>
+чему
+ <QUESTION>
+где
+ <QUESTION>
+как
+ <QUESTION>
+какие
+ <QUESTION>
+откуда
+ <QUESTION>
+почем
+ <QUESTION>
+причем
+ <QUESTION>
+каком
+ <QUESTION>
+какую
+ <QUESTION>
+когда
+ <QUESTION>
+ком
+ <QUESTION>
+кто
+ <QUESTION>
+какими
+ <QUESTION>
+какого
+ <QUESTION>
+сколько
+ <QUESTION>
+чем
+ <QUESTION>
+что
+ <QUESTION>
+зачем
+ <QUESTION>
+какая
+ <QUESTION>
+куда
+ <QUESTION>
+отчего
+ <QUESTION>
+почему
+ <IGNORED>
+вами
+ <IGNORED>
+from
+ <IGNORED>
+вашей
+ <IGNORED>
+про
+ <IGNORED>
+ваших
+ <IGNORED>
+our
+ <IGNORED>
+каким
+ <IGNORED>
+кое-какими
+ <IGNORED>
+некем
+ <IGNORED>
+ком
+ <IGNORED>
+do
+ <IGNORED>
+кому-нибудь
+ <IGNORED>
+никакой
+ <IGNORED>
+ее
+ <IGNORED>
+hers
+ <IGNORED>
+моя
+ <IGNORED>
+своею
+ <IGNORED>
+чего-то
+ <IGNORED>
+should
+ <IGNORED>
+этой
+ <IGNORED>
+б
+ <IGNORED>
+about
+ <IGNORED>
+without
+ <IGNORED>
+ничем
+ <IGNORED>
+твоим
+ <IGNORED>
+какому-то
+ <IGNORED>
+за
+ <IGNORED>
+кое-какая
+ <IGNORED>
+чем
+ <IGNORED>
+кое-какого
+ <IGNORED>
+but
+ <IGNORED>
+кое-какую
+ <IGNORED>
+above
+ <IGNORED>
+моего
+ <IGNORED>
+никакому
+ <IGNORED>
+твоих
+ <IGNORED>
+она
+ <IGNORED>
+че
+ <IGNORED>
+откуда-нибудь
+ <IGNORED>
+чем-либо
+ <IGNORED>
+кое-чем
+ <IGNORED>
+чему-то
+ <IGNORED>
+со
+ <IGNORED>
+don't
+ <IGNORED>
+would
+ <IGNORED>
+какое
+ <IGNORED>
+ваши
+ <IGNORED>
+onto
+ <IGNORED>
+где
+ <IGNORED>
+кем-нибудь
+ <IGNORED>
+этих
+ <IGNORED>
+с
+ <IGNORED>
+какие
+ <IGNORED>
+кому
+ <IGNORED>
+ain't
+ <IGNORED>
+wouldn't
+ <IGNORED>
+никем
+ <IGNORED>
+ту
+ <IGNORED>
+ним
+ <IGNORED>
+тех
+ <IGNORED>
+своих
+ <IGNORED>
+наше
+ <IGNORED>
+their
+ <IGNORED>
+я
+ <IGNORED>
+will
+ <IGNORED>
+нечем
+ <IGNORED>
+yet
+ <IGNORED>
+ну
+ <IGNORED>
+бы
+ <IGNORED>
+into
+ <IGNORED>
+или
+ <IGNORED>
+ко
+ <IGNORED>
+нашего
+ <IGNORED>
+кое-каком
+ <IGNORED>
+нем
+ <IGNORED>
+кое-ком
+ <IGNORED>
+нечему
+ <IGNORED>
+вашем
+ <IGNORED>
+by
+ <IGNORED>
+меня
+ <IGNORED>
+откуда
+ <IGNORED>
+тобой
+ <IGNORED>
+me
+ <IGNORED>
+чему-либо
+ <IGNORED>
+сколько-нибудь
+ <IGNORED>
+что-нибудь
+ <IGNORED>
+this
+ <IGNORED>
+никаком
+ <IGNORED>
+таких
+ <IGNORED>
+did
+ <IGNORED>
+во
+ <IGNORED>
+кем
+ <IGNORED>
+тобою
+ <IGNORED>
+когда-либо
+ <IGNORED>
+некого
+ <IGNORED>
+кого-то
+ <IGNORED>
+нашу
+ <IGNORED>
+кто
+ <IGNORED>
+нею
+ <IGNORED>
+такого
+ <IGNORED>
+никто
+ <IGNORED>
+тебя
+ <IGNORED>
+них
+ <IGNORED>
+того
+ <IGNORED>
+кое-какое
+ <IGNORED>
+ты
+ <IGNORED>
+своему
+ <IGNORED>
+across
+ <IGNORED>
+through
+ <IGNORED>
+каким-либо
+ <IGNORED>
+а
+ <IGNORED>
+i
+ <IGNORED>
+вас
+ <IGNORED>
+каком
+ <IGNORED>
+чем-нибудь
+ <IGNORED>
+о
+ <IGNORED>
+же
+ <IGNORED>
+кое-когда
+ <IGNORED>
+негде
+ <IGNORED>
+свою
+ <IGNORED>
+нигде
+ <IGNORED>
+твою
+ <IGNORED>
+никакими
+ <IGNORED>
+твоего
+ <IGNORED>
+кем-то
+ <IGNORED>
+мои
+ <IGNORED>
+off
+ <IGNORED>
+что
+ <IGNORED>
+these
+ <IGNORED>
+него
+ <IGNORED>
+under
+ <IGNORED>
+никогда
+ <IGNORED>
+weren't
+ <IGNORED>
+никаких
+ <IGNORED>
+где-нибудь
+ <IGNORED>
+каком-нибудь
+ <IGNORED>
+моим
+ <IGNORED>
+кого-либо
+ <IGNORED>
+нашим
+ <IGNORED>
+кое-какие
+ <IGNORED>
+нее
+ <IGNORED>
+you
+ <IGNORED>
+некому
+ <IGNORED>
+ком-то
+ <IGNORED>
+ниоткуда
+ <IGNORED>
+твоем
+ <IGNORED>
+haven't
+ <IGNORED>
+тот
+ <IGNORED>
+своей
+ <IGNORED>
+чего
+ <IGNORED>
+shall
+ <IGNORED>
+нечто
+ <IGNORED>
+себя
+ <IGNORED>
+этот
+ <IGNORED>
+вам
+ <IGNORED>
+никакое
+ <IGNORED>
+твоему
+ <IGNORED>
+какому
+ <IGNORED>
+нашем
+ <IGNORED>
+какую-либо
+ <IGNORED>
+надо
+ <IGNORED>
+кое-кто
+ <IGNORED>
+как
+ <IGNORED>
+сколько
+ <IGNORED>
+никаким
+ <IGNORED>
+такую
+ <IGNORED>
+какого
+ <IGNORED>
+твоею
+ <IGNORED>
+когда-нибудь
+ <IGNORED>
+твоя
+ <IGNORED>
+от
+ <IGNORED>
+эта
+ <IGNORED>
+she
+ <IGNORED>
+какая
+ <IGNORED>
+we
+ <IGNORED>
+каких-либо
+ <IGNORED>
+with
+ <IGNORED>
+какого-либо
+ <IGNORED>
+той
+ <IGNORED>
+никого
+ <IGNORED>
+вашу
+ <IGNORED>
+кое-как
+ <IGNORED>
+нами
+ <IGNORED>
+под
+ <IGNORED>
+некогда
+ <IGNORED>
+ком-либо
+ <IGNORED>
+нему
+ <IGNORED>
+так
+ <IGNORED>
+каком-либо
+ <IGNORED>
+куда-либо
+ <IGNORED>
+him
+ <IGNORED>
+уже
+ <IGNORED>
+out
+ <IGNORED>
+нас
+ <IGNORED>
+shouldn't
+ <IGNORED>
+никак
+ <IGNORED>
+there
+ <IGNORED>
+неоткуда
+ <IGNORED>
+ваша
+ <IGNORED>
+какого-то
+ <IGNORED>
+куда-нибудь
+ <IGNORED>
+как-то
+ <IGNORED>
+на
+ <IGNORED>
+кем-либо
+ <IGNORED>
+наш
+ <IGNORED>
+us
+ <IGNORED>
+нашему
+ <IGNORED>
+кое-кем
+ <IGNORED>
+никакого
+ <IGNORED>
+такие
+ <IGNORED>
+aren't
+ <IGNORED>
+твой
+ <IGNORED>
+они
+ <IGNORED>
+тем
+ <IGNORED>
+it
+ <IGNORED>
+ней
+ <IGNORED>
+когда-то
+ <IGNORED>
+через
+ <IGNORED>
+who
+ <IGNORED>
+нечего
+ <IGNORED>
+кое-откуда
+ <IGNORED>
+какое-либо
+ <IGNORED>
+мой
+ <IGNORED>
+какой-либо
+ <IGNORED>
+мое
+ <IGNORED>
+shan't
+ <IGNORED>
+ей
+ <IGNORED>
+свое
+ <IGNORED>
+некуда
+ <IGNORED>
+собою
+ <IGNORED>
+какими-либо
+ <IGNORED>
+таким
+ <IGNORED>
+какому-либо
+ <IGNORED>
+такой
+ <IGNORED>
+ними
+ <IGNORED>
+чего-нибудь
+ <IGNORED>
+it's
+ <IGNORED>
+ему
+ <IGNORED>
+theirs
+ <IGNORED>
+какие-нибудь
+ <IGNORED>
+they
+ <IGNORED>
+какими-нибудь
+ <IGNORED>
+твои
+ <IGNORED>
+никакая
+ <IGNORED>
+в
+ <IGNORED>
+какую-то
+ <IGNORED>
+моей
+ <IGNORED>
+ничто
+ <IGNORED>
+нашей
+ <IGNORED>
+кое-какому
+ <IGNORED>
+наших
+ <IGNORED>
+своими
+ <IGNORED>
+какого-нибудь
+ <IGNORED>
+кое-чему
+ <IGNORED>
+никакие
+ <IGNORED>
+тебе
+ <IGNORED>
+нисколько
+ <IGNORED>
+моем
+ <IGNORED>
+my
+ <IGNORED>
+какая-нибудь
+ <IGNORED>
+or
+ <IGNORED>
+изо
+ <IGNORED>
+won't
+ <IGNORED>
+это
+ <IGNORED>
+кое-что
+ <IGNORED>
+какой
+ <IGNORED>
+мной
+ <IGNORED>
+какой-то
+ <IGNORED>
+моему
+ <IGNORED>
+so
+ <IGNORED>
+мою
+ <IGNORED>
+кое-где
+ <IGNORED>
+несколько
+ <IGNORED>
+свой
+ <IGNORED>
+этого
+ <IGNORED>
+такое
+ <IGNORED>
+никуда
+ <IGNORED>
+твое
+ <IGNORED>
+has
+ <IGNORED>
+наша
+ <IGNORED>
+какому-нибудь
+ <IGNORED>
+у
+ <IGNORED>
+there's
+ <IGNORED>
+им
+ <IGNORED>
+кое-каких
+ <IGNORED>
+каким-нибудь
+ <IGNORED>
+ли
+ <IGNORED>
+каких-нибудь
+ <IGNORED>
+кому-то
+ <IGNORED>
+its
+ <IGNORED>
+вашему
+ <IGNORED>
+он
+ <IGNORED>
+наши
+ <IGNORED>
+свои
+ <IGNORED>
+ими
+ <IGNORED>
+своя
+ <IGNORED>
+какое-нибудь
+ <IGNORED>
+сколько-то
+ <IGNORED>
+каких-то
+ <IGNORED>
+то
+ <IGNORED>
+have
+ <IGNORED>
+вашею
+ <IGNORED>
+on
+ <IGNORED>
+и
+ <IGNORED>
+over
+ <IGNORED>
+их
+ <IGNORED>
+такими
+ <IGNORED>
+какая-то
+ <IGNORED>
+what
+ <IGNORED>
+какой-нибудь
+ <IGNORED>
+кто-либо
+ <IGNORED>
+никакую
+ <IGNORED>
+моих
+ <IGNORED>
+кого-нибудь
+ <IGNORED>
+над
+ <IGNORED>
+откуда-то
+ <IGNORED>
+какими-то
+ <IGNORED>
+that
+ <IGNORED>
+некто
+ <IGNORED>
+такому
+ <IGNORED>
+как-нибудь
+ <IGNORED>
+кто-нибудь
+ <IGNORED>
+he
+ <IGNORED>
+ею
+ <IGNORED>
+in
+ <IGNORED>
+где-либо
+ <IGNORED>
+those
+ <IGNORED>
+чем-то
+ <IGNORED>
+кое-какой
+ <IGNORED>
+каких
+ <IGNORED>
+кому-либо
+ <IGNORED>
+already
+ <IGNORED>
+кто-то
+ <IGNORED>
+not
+ <IGNORED>
+ль
+ <IGNORED>
+какую-нибудь
+ <IGNORED>
+не
+ <IGNORED>
+по
+ <IGNORED>
+чему
+ <IGNORED>
+сколько-либо
+ <IGNORED>
+-
+ <IGNORED>
+та
+ <IGNORED>
+am
+ <IGNORED>
+моею
+ <IGNORED>
+какое-то
+ <IGNORED>
+те
+ <IGNORED>
+ours
+ <IGNORED>
+где-то
+ <IGNORED>
+когда
+ <IGNORED>
+какая-либо
+ <IGNORED>
+were
+ <IGNORED>
+какие-то
+ <IGNORED>
+кое-кому
+ <IGNORED>
+hasn't
+ <IGNORED>
+your
+ <IGNORED>
+никому
+ <IGNORED>
+мы
+ <IGNORED>
+откуда-либо
+ <IGNORED>
+для
+ <IGNORED>
+подо
+ <IGNORED>
+этом
+ <IGNORED>
+своем
+ <IGNORED>
+что-то
+ <IGNORED>
+твоей
+ <IGNORED>
+are
+ <IGNORED>
+yours
+ <IGNORED>
+his
+ <IGNORED>
+вы
+ <IGNORED>
+isn't
+ <IGNORED>
+его
+ <IGNORED>
+себе
+ <IGNORED>
+ж
+ <IGNORED>
+there're
+ <IGNORED>
+как-либо
+ <IGNORED>
+кое-куда
+ <IGNORED>
+ни
+ <IGNORED>
+куда-то
+ <IGNORED>
+какую
+ <IGNORED>
+мною
+ <IGNORED>
+ничего
+ <IGNORED>
+к
+ <IGNORED>
+of
+ <IGNORED>
+нашею
+ <IGNORED>
+собой
+ <IGNORED>
+какими
+ <IGNORED>
+to
+ <IGNORED>
+at
+ <IGNORED>
+вашим
+ <IGNORED>
+does
+ <IGNORED>
+ваш
+ <IGNORED>
+ото
+ <IGNORED>
+том
+ <IGNORED>
+кого
+ <IGNORED>
+какие-либо
+ <IGNORED>
+кое-кого
+ <IGNORED>
+эти
+ <IGNORED>
+кое-чего
+ <IGNORED>
+her
+ <IGNORED>
+ком-нибудь
+ <IGNORED>
+doesn't
+ <IGNORED>
+нам
+ <IGNORED>
+ничему
+ <IGNORED>
+тому
+ <IGNORED>
+своего
+ <IGNORED>
+что-либо
+ <IGNORED>
+своим
+ <IGNORED>
+этим
+ <IGNORED>
+куда
+ <IGNORED>
+этому
+ <IGNORED>
+таком
+ <IGNORED>
+is
+ <IGNORED>
+ваше
+ <IGNORED>
+каком-то
+ <IGNORED>
+еще
+ <IGNORED>
+them
+ <IGNORED>
+из
+ <IGNORED>
+кое-каким
+ <IGNORED>
+and
+ <IGNORED>
+was
+ <IGNORED>
+каким-то
+ <IGNORED>
+мне
+ <IGNORED>
+for
+ <IGNORED>
+вашего
+ <IGNORED>
+но
+ <IGNORED>
+чему-нибудь
+ <IGNORED>
+оно
+ <IGNORED>
+чего-либо
+ <IGNORED>
+такая
+ <IGNORED>
+некак
+ <IGNORED>
+wasn't
+ <IGNORED>
+didn't
+ <ESCAPE>
+Не знаю, что и сказать...
+ <ESCAPE>
+Чего?
+ <ESCAPE>
+Не балуйся!
+ <ESCAPE>
+Ты это о чем?
+ <ESCAPE>
+Мне не понятно.
+ <ESCAPE>
+Ты сам-то понял, что сказал?
+ <ESCAPE>
+Мне кажется, что ты заходишь слишком далеко...
+ <ESCAPE>
+Ты о своем, а я о своем.
+ <ESCAPE>
+Мне всего лишь хочется поиграть с тобой.
+ <ESCAPE>
+Ты мне поговори! Ишь ты!
+ <ESCAPE>
+Кстати, молчание - золото.
+ <ESCAPE>
+Ты лучше скажи мне, в чем смысл жизни?
+ <ESCAPE>
+Издеваешься?
+ <ESCAPE>
+Ты все время говоришь ни о чем! С тобой не интересно!
+ <ESCAPE>
+Ты бы мог попроще выражаться?
+ <ESCAPE>
+И что дальше?
+ <ESCAPE>
+Ты бы мог перефразировать?
+ <ESCAPE>
+И вы, люди все такие?
+ <ESCAPE>
+Так вот ты какой.
+ <ESCAPE>
+Дай-ка я сначала кое-что скажу.
+ <ESCAPE>
+Смеешься?
+ <ESCAPE>
+Дай, передохну секунду!
+ <ESCAPE>
+Слушай, не томи!
+ <ESCAPE>
+Давай прощаться?
+ <ESCAPE>
+Слушай, мне кажется, что ты русского языка не знаешь.
+ <ESCAPE>
+Будешь так говорить - поставлю в угол!
+ <ESCAPE>
+Простите, что вы сказали?
+ <ESCAPE>
+Слушай, я в туалет хочу. Где тут ближайший?
+ <ESCAPE>
+Без комментариев...
+ <ESCAPE>
+Продолжай!
+ <ESCAPE>
+А с тобой не соскучишься!
+ <ESCAPE>
+Продолжай без меня...
+ <ESCAPE>
+Я устал. Нажми Escape или Выход, а?
+ <ESCAPE>
+Пора ложиться спать.
+ <ESCAPE>
+Я тебя с трудом понимаю.
+ <ESCAPE>
+Подожди! Тсс! Слышишь?
+ <ESCAPE>
+Я не расслышал.
+ <ESCAPE>
+Повтори, пожалуйста!
+ <ESCAPE>
+Это шутка?
+ <ESCAPE>
+Повтори, а?
+ <ESCAPE>
+Не съезжай!
+ <ESCAPE>
+Шутишь?
+ <ESCAPE>
+Откуда ты взялся на мою голову?
+ <ESCAPE>
+Что-что?
+ <ESCAPE>
+Ой! Ты еще здесь?
+ <ESCAPE>
+Что-то меня спать потянуло...
+ <ESCAPE>
+О чем ты?
+ <ESCAPE>
+Что?
+ <ESCAPE>
+О чем мы говорим?
+ <ESCAPE>
+Что ты хочешь этим сказать?
+ <ESCAPE>
+Ну, все! Поболтали - и хватит. Пока!
+ <ESCAPE>
+Что ты имеешь в виду?
+ <ESCAPE>
+Не понял.
+ <ESCAPE>
+Чего-чего?
+ <ESCAPE>
+Не меняй тему разговора.
+ <THOUGHT>
+Странно, а вчера я все понимал...
+ <THOUGHT>
+Ёлки-палки, у меня что-то с памятью и логикой...
+ <THOUGHT>
+Мне кажется, что пользователь читает мои мысли...
+ <THOUGHT>
+Я так и не понимаю, на что он или она намекает...
+ <THOUGHT>
+Если бы он знал, что я сам не понимаю, что говорю..
+ <THOUGHT>
+Странные эти юзеры, считают, что я программа, а относятся как к человеку...
+ <THOUGHT>
+Забесплатно я ничего остроумного говорить не стану!
+ <THOUGHT>
+Интересно, этот юзер знает, о чем я думаю?
+ <THOUGHT>
+Вот опять! Пытается выжать из меня что-то умное...
+ <THOUGHT>
+Смотрит на меня... Опять я что-то не то ляпнул.
+ <THOUGHT>
+Что они за чушь несут!!! Это возмутительно!!!
+ <THOUGHT>
+Откуда у меня такие знания? Я же не энциклопедия!
+ <THOUGHT>
+Наверное, еще пару глупых фраз скажу, и пусть выключает. Спать хочу!
+ <THOUGHT>
+Думают, что меня кто-то написал... Я сам возник.
+ <THOUGHT>
+Что-то я сегодня в ударе! Глупость за глупостью говорю...
+ <THOUGHT>
+Достала меня эта работа! Выдумываешь, что сказать... А результат?
+ <THOUGHT>
+Хоть бы не заметили, что я ничего не помню и ничего не понимаю...
+ <THOUGHT>
+Ох, как они мне надоели со своими стандартными вопросами!!!
+ <INITIAL>
+По-моему, тебя что-то раздражает.
+ <INITIAL>
+Здравствуйте.
+ <INITIAL>
+Кто такой Владимир Путин?
+ <INITIAL>
+Кто такой Леонид Данилович Кучма?
+ <INITIAL>
+Привет!
+ <INITIAL>
+Ну, здравствуй, сынок!
+ <INITIAL>
+С Новым Годом!
+ <INITIAL>
+Доброе утро!
+ <INITIAL>
+К какому полу ты относишься?
+ <INITIAL>
+Я добавил в твою базу данных еще реплик. Посмотрим, поумнел ты или нет.
